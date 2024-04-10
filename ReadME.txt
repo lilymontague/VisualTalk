@@ -30,7 +30,9 @@ created with the ones in this repo.
 5- SIMPLY PRESS THE GREEN RUN BUTTON IN THE PROCESSING IDE. A rectangular screen
 with a white background and grey dividing lines should pop up
 
-6- PRESS PLAY ON ABLETON TO PLAY OR CREATE SOME MUSIC 
+6- PRESS PLAY ON ABLETON TO PLAY OR CREATE SOME MUSIC. Make sure the tracks are in
+the right order from 8000T - 8007T otherwise the solo function will solo the 
+wrong tracks. 
 
 7- YOU SHOULD SEE EACH DIFFERENT TRACK REPRESENTED IN THE DIFFERENT SECTIONS OF 
 THE PROCESSING SKETCH. 
