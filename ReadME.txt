@@ -30,7 +30,9 @@ just drag these ones in. When you are in the Ableton file, scroll down to one of
 the tracks labelled 8000-8007 and double click on it. It will tell you that the 
 MAX instrument cannot be found. Click on the automatic search button and it 
 should retrieve all the instruments from the presets folder you dragged in. 
-The same should happen if there are any samples in the file that are missing. 
+The same should happen if there are any samples in the file that are missing.
+Some samples won't be able to be retrieved becuase they were too large to load onto 
+GitHub. 
 
 5- SIMPLY PRESS THE GREEN RUN BUTTON IN THE PROCESSING IDE. A rectangular screen
 with a white background and grey dividing lines should pop up
