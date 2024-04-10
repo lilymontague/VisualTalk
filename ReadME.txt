@@ -25,20 +25,26 @@ It will automatically boot up Proccessing.
 4- OPEN THE ABLETON PROJECT FOLDER "VisualTalk Project" AND OPEN THE ABLETON FILE, 
 "VisualTalk.als". You will need to save this file within a 'Project Folder' and 
 then replace the 'Presets' and 'Samples' folders which are in the project folder you 
-created with the ones in this repo. 
+created with the ones in this repo. If there aren't any folders anyways, then 
+just drag these ones in. When you are in the Ableton file, scroll down to one of 
+the tracks labelled 8000-8007 and double click on it. It will tell you that the 
+MAX instrument cannot be found. Click on the automatic search button and it 
+should retrieve all the instruments from the presets folder you dragged in. 
+The same should happen if there are any samples in the file that are missing. 
 
 5- SIMPLY PRESS THE GREEN RUN BUTTON IN THE PROCESSING IDE. A rectangular screen
 with a white background and grey dividing lines should pop up
 
-6- PRESS PLAY ON ABLETON TO PLAY OR CREATE SOME MUSIC. Make sure the tracks are in
-the right order from 8000T - 8007T otherwise the solo function will solo the 
-wrong tracks. 
+6- PRESS PLAY ON ABLETON TO CREATE SOME MUSIC. You can only use audio samples, 
+so drag in samples of audio or record in sounds. 
+Make sure the tracks are in the right order from 8000T - 8007T otherwise the 
+solo function will solo the wrong tracks. 
 
 7- YOU SHOULD SEE EACH DIFFERENT TRACK REPRESENTED IN THE DIFFERENT SECTIONS OF 
 THE PROCESSING SKETCH. 
 
-If you click on a track section in the sketch once you will mute the track. 
-Click again to unmute it. 
+If you click on a track section in the sketch once you will solo the track. 
+Click again to unsolo it. 
 
 You can only create sound in the eight tracks 8000T to 8007T. You can only 
 record and manipulate audio files (not MIDI) in these tracks. 
