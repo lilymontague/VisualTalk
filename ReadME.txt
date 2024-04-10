@@ -1,0 +1,45 @@
+Welcome to the documents that make up VisualTalk - a live music visualisation 
+software built in Ableton and Processing. 
+
+Please follow these steps to get it up and running:
+
+1- MAKE SURE YOU HAVE ABLETON, PROCESSING AND MAX4LIVE INSTALLED ON YOUR 
+COMPUTER 
+
+https://processing.org/download
+https://www.ableton.com/ 
+
+Use these links and follow the download steps
+
+2- OPEN UP MAX AND INSTALL FLUCOMA AND ZSA DESCRIPTORS. 
+Then make sure these libraries are installed on Max on your device. 
+You can use these links or download from the Max library by searching them. 
+
+https://www.flucoma.org/ 
+http://www.e--j.com/index.php/download-zsa/ 
+
+3- OPEN UP THE FOLDER "zsa_send_many_interaction" AND OPEN THE FILE WITHIN IN, 
+"zsa_send_many_interaction.pde".
+It will automatically boot up Proccessing. 
+
+4- OPEN THE ABLETON PROJECT FOLDER "VisualTalk Project" AND OPEN THE ABLETON FILE, 
+"VisualTalk.als"
+
+5- SIMPLY PRESS THE GREEN RUN BUTTON IN THE PROCESSING IDE. A rectangular screen
+with a white background and grey dividing lines should pop up
+
+6- PRESS PLAY ON ABLETON TO PLAY OR CREATE SOME MUSIC 
+
+7- YOU SHOULD SEE EACH DIFFERENT TRACK REPRESENTED IN THE DIFFERENT SECTIONS OF 
+THE PROCESSING SKETCH. 
+
+If you click on a track section in the sketch once you will mute the track. 
+Click again to unmute it. 
+
+You can only create sound in the eight tracks 8000T to 8007T. You can only 
+record and manipulate audio files (not MIDI) in these tracks. 
+
+I've loaded in some tracks to play around with - have fun! 
+
+The Processing code is all within the IDE and the Max4Live code is 
+within the Max Patches on the tracks within the Ableton file. 
