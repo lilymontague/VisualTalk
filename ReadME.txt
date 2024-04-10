@@ -23,7 +23,9 @@ http://www.e--j.com/index.php/download-zsa/
 It will automatically boot up Proccessing. 
 
 4- OPEN THE ABLETON PROJECT FOLDER "VisualTalk Project" AND OPEN THE ABLETON FILE, 
-"VisualTalk.als"
+"VisualTalk.als". You will need to save this file within a 'Project Folder' and 
+then replace the 'Presets' and 'Samples' folders which are in the project folder you 
+created with the ones in this repo. 
 
 5- SIMPLY PRESS THE GREEN RUN BUTTON IN THE PROCESSING IDE. A rectangular screen
 with a white background and grey dividing lines should pop up
