@@ -1,6 +1,11 @@
 Welcome to the documents that make up VisualTalk - a live music visualisation 
 software built in Ableton and Processing. 
 
+NOTE: IT IS MUCH EASIER TO DOWNLOAD AND RUN THIS THROUGH THE ONEDRIVE
+SUPPORTING DOCUMENTS FOLDER. 
+On here, some of the samples will be missing and you have to do a 
+bit of folder management. 
+
 Please follow these steps to get it up and running:
 
 1- MAKE SURE YOU HAVE ABLETON, PROCESSING 3 AND MAX4LIVE INSTALLED ON YOUR 
