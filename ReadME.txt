@@ -3,7 +3,7 @@ software built in Ableton and Processing.
 
 Please follow these steps to get it up and running:
 
-1- MAKE SURE YOU HAVE ABLETON, PROCESSING AND MAX4LIVE INSTALLED ON YOUR 
+1- MAKE SURE YOU HAVE ABLETON, PROCESSING 3 AND MAX4LIVE INSTALLED ON YOUR 
 COMPUTER 
 
 https://processing.org/download
