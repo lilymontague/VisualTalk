@@ -25,14 +25,14 @@ It will automatically boot up Proccessing.
 4- OPEN THE ABLETON PROJECT FOLDER "VisualTalk Project" AND OPEN THE ABLETON FILE, 
 "VisualTalk.als". You will need to save this file within a 'Project Folder' and 
 then replace the 'Presets' and 'Samples' folders which are in the project folder you 
-created with the ones in this repo. If there aren't any folders anyways, then 
-just drag these ones in. When you are in the Ableton file, scroll down to one of 
+created with the ones in this repo. When you are in the Ableton file, scroll down to one of 
 the tracks labelled 8000-8007 and double click on it. It will tell you that the 
 MAX instrument cannot be found. Click on the automatic search button and it 
 should retrieve all the instruments from the presets folder you dragged in. 
 The same should happen if there are any samples in the file that are missing.
 Some samples won't be able to be retrieved becuase they were too large to load onto 
-GitHub. 
+GitHub. But feel free to drag some new ones in from your own library, or 
+use the ones in the folder. 
 
 5- SIMPLY PRESS THE GREEN RUN BUTTON IN THE PROCESSING IDE. A rectangular screen
 with a white background and grey dividing lines should pop up
